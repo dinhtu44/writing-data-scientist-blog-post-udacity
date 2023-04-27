@@ -21,8 +21,8 @@ This project is data analysis of Seattle AirBnB datasets and try to find insight
   The Seattle_AirBnB_Data_Analysis_v2.0 showcases all the work related to the questions above. Each section title describes the work within the section. And each markdown contains desciptions of why, how, or what about the code cells below or above.
 
 ## Results
-The main findings are published on medium.com: [How to be a prepared Airbnb host in Seattle](https://medium.com/@wmd1103/how-to-be-a-prepared-airbnb-host-in-seattle-b97814d03dea)
+The main findings are published on medium.com: [Preparing Airbnb host in Seattle](https://medium.com/@wmd1103/how-to-be-a-prepared-airbnb-host-in-seattle-b97814d03dea)
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Airbnb for the data. You can find additional information at the Kaggle. 
- link is [data](https://www.kaggle.com/airbnb/seattle) here.
+ link is [Information data ref](https://www.kaggle.com/airbnb/seattle) here.
